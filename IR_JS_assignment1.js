@@ -1,6 +1,6 @@
 //Assignment 1
 
-//Q1 12
+//Q1 
 var userName;
 
 //Q2 
